@@ -1,0 +1,7 @@
+C:\MY_WORKS\C#\BasicLearning\BasicLearning\bin\Debug\BasicLearning.exe.config
+C:\MY_WORKS\C#\BasicLearning\BasicLearning\bin\Debug\BasicLearning.exe
+C:\MY_WORKS\C#\BasicLearning\BasicLearning\bin\Debug\BasicLearning.pdb
+C:\MY_WORKS\C#\BasicLearning\BasicLearning\obj\Debug\BasicLearning.csproj.AssemblyReference.cache
+C:\MY_WORKS\C#\BasicLearning\BasicLearning\obj\Debug\BasicLearning.csproj.CoreCompileInputs.cache
+C:\MY_WORKS\C#\BasicLearning\BasicLearning\obj\Debug\BasicLearning.exe
+C:\MY_WORKS\C#\BasicLearning\BasicLearning\obj\Debug\BasicLearning.pdb

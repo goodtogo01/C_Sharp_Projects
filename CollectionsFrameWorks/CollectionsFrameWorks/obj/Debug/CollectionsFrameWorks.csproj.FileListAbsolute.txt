@@ -1,0 +1,7 @@
+C:\MY_WORKS\C#\CollectionsFrameWorks\CollectionsFrameWorks\bin\Debug\CollectionsFrameWorks.exe.config
+C:\MY_WORKS\C#\CollectionsFrameWorks\CollectionsFrameWorks\bin\Debug\CollectionsFrameWorks.exe
+C:\MY_WORKS\C#\CollectionsFrameWorks\CollectionsFrameWorks\bin\Debug\CollectionsFrameWorks.pdb
+C:\MY_WORKS\C#\CollectionsFrameWorks\CollectionsFrameWorks\obj\Debug\CollectionsFrameWorks.csproj.AssemblyReference.cache
+C:\MY_WORKS\C#\CollectionsFrameWorks\CollectionsFrameWorks\obj\Debug\CollectionsFrameWorks.csproj.CoreCompileInputs.cache
+C:\MY_WORKS\C#\CollectionsFrameWorks\CollectionsFrameWorks\obj\Debug\CollectionsFrameWorks.exe
+C:\MY_WORKS\C#\CollectionsFrameWorks\CollectionsFrameWorks\obj\Debug\CollectionsFrameWorks.pdb
