@@ -1,0 +1,7 @@
+C:\MY_WORKS\C#\OOPs_Inharitance\OOPs_Inharitance\bin\Debug\OOPs_Inharitance.exe.config
+C:\MY_WORKS\C#\OOPs_Inharitance\OOPs_Inharitance\bin\Debug\OOPs_Inharitance.exe
+C:\MY_WORKS\C#\OOPs_Inharitance\OOPs_Inharitance\bin\Debug\OOPs_Inharitance.pdb
+C:\MY_WORKS\C#\OOPs_Inharitance\OOPs_Inharitance\obj\Debug\OOPs_Inharitance.csproj.AssemblyReference.cache
+C:\MY_WORKS\C#\OOPs_Inharitance\OOPs_Inharitance\obj\Debug\OOPs_Inharitance.csproj.CoreCompileInputs.cache
+C:\MY_WORKS\C#\OOPs_Inharitance\OOPs_Inharitance\obj\Debug\OOPs_Inharitance.exe
+C:\MY_WORKS\C#\OOPs_Inharitance\OOPs_Inharitance\obj\Debug\OOPs_Inharitance.pdb

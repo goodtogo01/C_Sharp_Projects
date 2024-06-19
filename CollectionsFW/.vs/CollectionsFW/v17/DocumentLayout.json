@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\MY_WORKS\\C#\\CollectionsFW\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE708977-BF09-415D-A793-DE44820F4492}|CollectionsFW\\CollectionsFW.csproj|c:\\my_works\\c#\\collectionsfw\\collectionsfw\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE708977-BF09-415D-A793-DE44820F4492}|CollectionsFW\\CollectionsFW.csproj|solutionrelative:collectionsfw\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE708977-BF09-415D-A793-DE44820F4492}|CollectionsFW\\CollectionsFW.csproj|c:\\my_works\\c#\\collectionsfw\\collectionsfw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE708977-BF09-415D-A793-DE44820F4492}|CollectionsFW\\CollectionsFW.csproj|solutionrelative:collectionsfw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE708977-BF09-415D-A793-DE44820F4492}|CollectionsFW\\CollectionsFW.csproj|c:\\my_works\\c#\\collectionsfw\\collectionsfw\\arraysconcepts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE708977-BF09-415D-A793-DE44820F4492}|CollectionsFW\\CollectionsFW.csproj|solutionrelative:collectionsfw\\arraysconcepts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\MY_WORKS\\C#\\CollectionsFW\\CollectionsFW\\Program.cs",
+              "RelativeDocumentMoniker": "CollectionsFW\\Program.cs",
+              "ToolTip": "C:\\MY_WORKS\\C#\\CollectionsFW\\CollectionsFW\\Program.cs",
+              "RelativeToolTip": "CollectionsFW\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T15:57:11.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\MY_WORKS\\C#\\CollectionsFW\\CollectionsFW\\Class1.cs",
+              "RelativeDocumentMoniker": "CollectionsFW\\Class1.cs",
+              "ToolTip": "C:\\MY_WORKS\\C#\\CollectionsFW\\CollectionsFW\\Class1.cs",
+              "RelativeToolTip": "CollectionsFW\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T15:53:58.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ArraysConcepts.cs",
+              "DocumentMoniker": "C:\\MY_WORKS\\C#\\CollectionsFW\\CollectionsFW\\ArraysConcepts.cs",
+              "RelativeDocumentMoniker": "CollectionsFW\\ArraysConcepts.cs",
+              "ToolTip": "C:\\MY_WORKS\\C#\\CollectionsFW\\CollectionsFW\\ArraysConcepts.cs",
+              "RelativeToolTip": "CollectionsFW\\ArraysConcepts.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwDQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T15:51:44.995Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

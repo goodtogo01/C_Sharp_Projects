@@ -1,0 +1,7 @@
+C:\MY_WORKS\C#\OOPs_Pillers_Concepts\OOPs_Pillers_Concepts\bin\Debug\OOPs_Pillers_Concepts.exe.config
+C:\MY_WORKS\C#\OOPs_Pillers_Concepts\OOPs_Pillers_Concepts\bin\Debug\OOPs_Pillers_Concepts.exe
+C:\MY_WORKS\C#\OOPs_Pillers_Concepts\OOPs_Pillers_Concepts\bin\Debug\OOPs_Pillers_Concepts.pdb
+C:\MY_WORKS\C#\OOPs_Pillers_Concepts\OOPs_Pillers_Concepts\obj\Debug\OOPs_Pillers_Concepts.csproj.AssemblyReference.cache
+C:\MY_WORKS\C#\OOPs_Pillers_Concepts\OOPs_Pillers_Concepts\obj\Debug\OOPs_Pillers_Concepts.csproj.CoreCompileInputs.cache
+C:\MY_WORKS\C#\OOPs_Pillers_Concepts\OOPs_Pillers_Concepts\obj\Debug\OOPs_Pillers_Concepts.exe
+C:\MY_WORKS\C#\OOPs_Pillers_Concepts\OOPs_Pillers_Concepts\obj\Debug\OOPs_Pillers_Concepts.pdb

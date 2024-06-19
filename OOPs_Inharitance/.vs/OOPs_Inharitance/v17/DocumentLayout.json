@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\MY_WORKS\\C#\\OOPs_Inharitance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8EF717DE-BEF7-4CDA-BF9A-498737451E44}|OOPs_Inharitance\\OOPs_Inharitance.csproj|c:\\my_works\\c#\\oops_inharitance\\oops_inharitance\\text.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EF717DE-BEF7-4CDA-BF9A-498737451E44}|OOPs_Inharitance\\OOPs_Inharitance.csproj|solutionrelative:oops_inharitance\\text.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EF717DE-BEF7-4CDA-BF9A-498737451E44}|OOPs_Inharitance\\OOPs_Inharitance.csproj|c:\\my_works\\c#\\oops_inharitance\\oops_inharitance\\presentationobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EF717DE-BEF7-4CDA-BF9A-498737451E44}|OOPs_Inharitance\\OOPs_Inharitance.csproj|solutionrelative:oops_inharitance\\presentationobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EF717DE-BEF7-4CDA-BF9A-498737451E44}|OOPs_Inharitance\\OOPs_Inharitance.csproj|c:\\my_works\\c#\\oops_inharitance\\oops_inharitance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EF717DE-BEF7-4CDA-BF9A-498737451E44}|OOPs_Inharitance\\OOPs_Inharitance.csproj|solutionrelative:oops_inharitance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 218,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Text.cs",
+              "DocumentMoniker": "C:\\MY_WORKS\\C#\\OOPs_Inharitance\\OOPs_Inharitance\\Text.cs",
+              "RelativeDocumentMoniker": "OOPs_Inharitance\\Text.cs",
+              "ToolTip": "C:\\MY_WORKS\\C#\\OOPs_Inharitance\\OOPs_Inharitance\\Text.cs",
+              "RelativeToolTip": "OOPs_Inharitance\\Text.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T04:59:34.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PresentationObject.cs",
+              "DocumentMoniker": "C:\\MY_WORKS\\C#\\OOPs_Inharitance\\OOPs_Inharitance\\PresentationObject.cs",
+              "RelativeDocumentMoniker": "OOPs_Inharitance\\PresentationObject.cs",
+              "ToolTip": "C:\\MY_WORKS\\C#\\OOPs_Inharitance\\OOPs_Inharitance\\PresentationObject.cs",
+              "RelativeToolTip": "OOPs_Inharitance\\PresentationObject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T04:40:13.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\MY_WORKS\\C#\\OOPs_Inharitance\\OOPs_Inharitance\\Program.cs",
+              "RelativeDocumentMoniker": "OOPs_Inharitance\\Program.cs",
+              "ToolTip": "C:\\MY_WORKS\\C#\\OOPs_Inharitance\\OOPs_Inharitance\\Program.cs",
+              "RelativeToolTip": "OOPs_Inharitance\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T04:20:38.361Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

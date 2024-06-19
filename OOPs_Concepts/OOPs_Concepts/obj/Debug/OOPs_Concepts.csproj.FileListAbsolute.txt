@@ -1,0 +1,7 @@
+C:\MY_WORKS\C#\OOPs_Concepts\OOPs_Concepts\bin\Debug\OOPs_Concepts.exe.config
+C:\MY_WORKS\C#\OOPs_Concepts\OOPs_Concepts\bin\Debug\OOPs_Concepts.exe
+C:\MY_WORKS\C#\OOPs_Concepts\OOPs_Concepts\bin\Debug\OOPs_Concepts.pdb
+C:\MY_WORKS\C#\OOPs_Concepts\OOPs_Concepts\obj\Debug\OOPs_Concepts.csproj.AssemblyReference.cache
+C:\MY_WORKS\C#\OOPs_Concepts\OOPs_Concepts\obj\Debug\OOPs_Concepts.csproj.CoreCompileInputs.cache
+C:\MY_WORKS\C#\OOPs_Concepts\OOPs_Concepts\obj\Debug\OOPs_Concepts.exe
+C:\MY_WORKS\C#\OOPs_Concepts\OOPs_Concepts\obj\Debug\OOPs_Concepts.pdb

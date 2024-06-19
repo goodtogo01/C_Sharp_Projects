@@ -1,0 +1,15 @@
+C:\MY_WORKS\C#\CollectionsFW\CollectionsFW\bin\Debug\net8.0\CollectionsFW.exe
+C:\MY_WORKS\C#\CollectionsFW\CollectionsFW\bin\Debug\net8.0\CollectionsFW.deps.json
+C:\MY_WORKS\C#\CollectionsFW\CollectionsFW\bin\Debug\net8.0\CollectionsFW.runtimeconfig.json
+C:\MY_WORKS\C#\CollectionsFW\CollectionsFW\bin\Debug\net8.0\CollectionsFW.dll
+C:\MY_WORKS\C#\CollectionsFW\CollectionsFW\bin\Debug\net8.0\CollectionsFW.pdb
+C:\MY_WORKS\C#\CollectionsFW\CollectionsFW\obj\Debug\net8.0\CollectionsFW.GeneratedMSBuildEditorConfig.editorconfig
+C:\MY_WORKS\C#\CollectionsFW\CollectionsFW\obj\Debug\net8.0\CollectionsFW.AssemblyInfoInputs.cache
+C:\MY_WORKS\C#\CollectionsFW\CollectionsFW\obj\Debug\net8.0\CollectionsFW.AssemblyInfo.cs
+C:\MY_WORKS\C#\CollectionsFW\CollectionsFW\obj\Debug\net8.0\CollectionsFW.csproj.CoreCompileInputs.cache
+C:\MY_WORKS\C#\CollectionsFW\CollectionsFW\obj\Debug\net8.0\CollectionsFW.sourcelink.json
+C:\MY_WORKS\C#\CollectionsFW\CollectionsFW\obj\Debug\net8.0\CollectionsFW.dll
+C:\MY_WORKS\C#\CollectionsFW\CollectionsFW\obj\Debug\net8.0\refint\CollectionsFW.dll
+C:\MY_WORKS\C#\CollectionsFW\CollectionsFW\obj\Debug\net8.0\CollectionsFW.pdb
+C:\MY_WORKS\C#\CollectionsFW\CollectionsFW\obj\Debug\net8.0\CollectionsFW.genruntimeconfig.cache
+C:\MY_WORKS\C#\CollectionsFW\CollectionsFW\obj\Debug\net8.0\ref\CollectionsFW.dll

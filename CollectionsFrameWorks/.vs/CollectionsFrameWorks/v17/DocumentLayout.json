@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\MY_WORKS\\C#\\CollectionsFrameWorks\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{818C01E2-D7CD-41EF-BFE3-8B3EDD7E2195}|CollectionsFrameWorks\\CollectionsFrameWorks.csproj|c:\\my_works\\c#\\collectionsframeworks\\collectionsframeworks\\dictionarytest_01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{818C01E2-D7CD-41EF-BFE3-8B3EDD7E2195}|CollectionsFrameWorks\\CollectionsFrameWorks.csproj|solutionrelative:collectionsframeworks\\dictionarytest_01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818C01E2-D7CD-41EF-BFE3-8B3EDD7E2195}|CollectionsFrameWorks\\CollectionsFrameWorks.csproj|c:\\my_works\\c#\\collectionsframeworks\\collectionsframeworks\\arraylists_01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{818C01E2-D7CD-41EF-BFE3-8B3EDD7E2195}|CollectionsFrameWorks\\CollectionsFrameWorks.csproj|solutionrelative:collectionsframeworks\\arraylists_01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818C01E2-D7CD-41EF-BFE3-8B3EDD7E2195}|CollectionsFrameWorks\\CollectionsFrameWorks.csproj|C:\\MY_WORKS\\C#\\CollectionsFrameWorks\\collectionsframeworks\\concepts_arrays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{818C01E2-D7CD-41EF-BFE3-8B3EDD7E2195}|CollectionsFrameWorks\\CollectionsFrameWorks.csproj|solutionrelative:collectionsframeworks\\concepts_arrays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{818C01E2-D7CD-41EF-BFE3-8B3EDD7E2195}|CollectionsFrameWorks\\CollectionsFrameWorks.csproj|c:\\my_works\\c#\\collectionsframeworks\\collectionsframeworks\\arraystest_01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{818C01E2-D7CD-41EF-BFE3-8B3EDD7E2195}|CollectionsFrameWorks\\CollectionsFrameWorks.csproj|solutionrelative:collectionsframeworks\\arraystest_01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{818C01E2-D7CD-41EF-BFE3-8B3EDD7E2195}|CollectionsFrameWorks\\CollectionsFrameWorks.csproj|c:\\my_works\\c#\\collectionsframeworks\\collectionsframeworks\\concepts_arrays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{818C01E2-D7CD-41EF-BFE3-8B3EDD7E2195}|CollectionsFrameWorks\\CollectionsFrameWorks.csproj|solutionrelative:collectionsframeworks\\concepts_arrays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{818C01E2-D7CD-41EF-BFE3-8B3EDD7E2195}|CollectionsFrameWorks\\CollectionsFrameWorks.csproj|c:\\my_works\\c#\\collectionsframeworks\\collectionsframeworks\\arraystest_02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{818C01E2-D7CD-41EF-BFE3-8B3EDD7E2195}|CollectionsFrameWorks\\CollectionsFrameWorks.csproj|solutionrelative:collectionsframeworks\\arraystest_02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +30,73 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "DictionaryTest_01.cs",
+              "DocumentMoniker": "C:\\MY_WORKS\\C#\\CollectionsFrameWorks\\CollectionsFrameWorks\\DictionaryTest_01.cs",
+              "RelativeDocumentMoniker": "CollectionsFrameWorks\\DictionaryTest_01.cs",
+              "ToolTip": "C:\\MY_WORKS\\C#\\CollectionsFrameWorks\\CollectionsFrameWorks\\DictionaryTest_01.cs*",
+              "RelativeToolTip": "CollectionsFrameWorks\\DictionaryTest_01.cs*",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T15:32:53.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArrayLists_01.cs",
+              "DocumentMoniker": "C:\\MY_WORKS\\C#\\CollectionsFrameWorks\\CollectionsFrameWorks\\ArrayLists_01.cs",
+              "RelativeDocumentMoniker": "CollectionsFrameWorks\\ArrayLists_01.cs",
+              "ToolTip": "C:\\MY_WORKS\\C#\\CollectionsFrameWorks\\CollectionsFrameWorks\\ArrayLists_01.cs",
+              "RelativeToolTip": "CollectionsFrameWorks\\ArrayLists_01.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T19:45:11.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ArraysTest_02.cs",
+              "DocumentMoniker": "C:\\MY_WORKS\\C#\\CollectionsFrameWorks\\CollectionsFrameWorks\\ArraysTest_02.cs",
+              "RelativeDocumentMoniker": "CollectionsFrameWorks\\ArraysTest_02.cs",
+              "ToolTip": "C:\\MY_WORKS\\C#\\CollectionsFrameWorks\\CollectionsFrameWorks\\ArraysTest_02.cs",
+              "RelativeToolTip": "CollectionsFrameWorks\\ArraysTest_02.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T18:46:18.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "ArraysTest_01.cs",
               "DocumentMoniker": "C:\\MY_WORKS\\C#\\CollectionsFrameWorks\\CollectionsFrameWorks\\ArraysTest_01.cs",
               "RelativeDocumentMoniker": "CollectionsFrameWorks\\ArraysTest_01.cs",
               "ToolTip": "C:\\MY_WORKS\\C#\\CollectionsFrameWorks\\CollectionsFrameWorks\\ArraysTest_01.cs",
               "RelativeToolTip": "CollectionsFrameWorks\\ArraysTest_01.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAQAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-08T20:12:18.16Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Concepts_Arrays.cs",
               "DocumentMoniker": "C:\\MY_WORKS\\C#\\CollectionsFrameWorks\\CollectionsFrameWorks\\Concepts_Arrays.cs",
               "RelativeDocumentMoniker": "CollectionsFrameWorks\\Concepts_Arrays.cs",
               "ToolTip": "C:\\MY_WORKS\\C#\\CollectionsFrameWorks\\CollectionsFrameWorks\\Concepts_Arrays.cs",
               "RelativeToolTip": "CollectionsFrameWorks\\Concepts_Arrays.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAAwDIAAAAMAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwDQAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-08T19:22:35.271Z",
               "EditorCaption": ""

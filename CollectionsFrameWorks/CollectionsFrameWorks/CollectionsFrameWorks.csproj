@@ -43,7 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ArrayLists_01.cs" />
     <Compile Include="ArraysTest_01.cs" />
+    <Compile Include="ArraysTest_02.cs" />
+    <Compile Include="DictionaryTest_01.cs" />
     <Compile Include="Concepts_Arrays.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
